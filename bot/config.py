@@ -1,13 +1,13 @@
 class config:
-    BOT_TOKEN = "1854368657:AAH55FgcHbonhIAEtzTzdhgd6cMigf5H11c"
-    APP_ID = "1971546"
-    API_HASH = "b994bccad6118cd6fb6d091b9bbfe5cf"
-    DATABASE_URL = "postgres://xzikoxfjzpzvph:a391d7f81f05edb4206c405850fc7ad021470da8ae615c34fddde71a055a54a6@ec2-52-0-114-209.compute-1.amazonaws.com:5432/d3fg2ul81hd69t"
-    SUDO_USERS = "1331188677" # Sepearted by space.
-    SUPPORT_CHAT_LINK = "https://t.me/lkhitech"
+    BOT_TOKEN = "5461373699:AAFVObVme7ZkGbTdFyU4GNlTOIbMAurd-iQ"
+    APP_ID = "14266885"
+    API_HASH = "553703b017c5d04deca34d8ffc134c06"
+    DATABASE_URL = "postgres://xpzxztdkhqlxco:63c868d956d30c4742161a4033245b561f5fbd76a5b9843e159f0fa64d72552c@ec2-52-22-136-117.compute-1.amazonaws.com:5432/daudnhdts1iv74"
+    SUDO_USERS = "683889988" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "https://t.me/VkingMovies05"
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = "211441795261-cn3g6m1tios1291d8gd8mul4vkmc2grb.apps.googleusercontent.com"
-    G_DRIVE_CLIENT_SECRET = "HENHM0YRHdVvAWtUK7S7DRiY"
+    G_DRIVE_CLIENT_ID = "794806605747-d1rirvpetalltg53ngm4e5ou9j1hooim.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "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"
 
 
 class BotCommands:
